@@ -39,3 +39,6 @@ Once the app is running, the fitness data (steps, calories, and heart rate) will
 
 API Integration
 This app uses an API to fetch real-time fitness data. You need to replace the API URL in the fetchFitnessData function with a real endpoint.
+
+![Screenshot (22)](https://github.com/user-attachments/assets/f7ebc71e-1e7a-4f68-a79b-3eb459261686)
+
